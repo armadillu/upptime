@@ -22,7 +22,7 @@
     "url": "$SF_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mini-term-sant-feliu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 461,
     "timeMonth": 572,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-26": 0
+    }
   }
 ]

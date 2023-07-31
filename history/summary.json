@@ -4,7 +4,7 @@
     "url": "https://uri.cat",
     "icon": "https://icons.duckduckgo.com/ip3/uri.cat.ico",
     "slug": "uri-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "80.76%",
     "uptimeWeek": "97.25%",
@@ -13,7 +13,7 @@
     "time": 1704,
     "timeDay": 3514,
     "timeWeek": 2936,
-    "timeMonth": 2336,
+    "timeMonth": 2358,
     "timeYear": 1714,
     "dailyMinutesDown": {
       "2023-07-31": 279,
@@ -35,7 +35,7 @@
     "time": 1037,
     "timeDay": 368,
     "timeWeek": 613,
-    "timeMonth": 486,
+    "timeMonth": 491,
     "timeYear": 1068,
     "dailyMinutesDown": {
       "2023-07-30": 17,

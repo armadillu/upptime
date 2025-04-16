@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1465,
-    "timeDay": 1055,
-    "timeWeek": 1475,
-    "timeMonth": 1444,
+    "timeDay": 1126,
+    "timeWeek": 1371,
+    "timeMonth": 1440,
     "timeYear": 1493,
     "dailyMinutesDown": {
       "2025-01-11": 21,
@@ -27,17 +27,16 @@
     "slug": "mini-term-sant-feliu",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.20%",
-    "time": 3052,
-    "timeDay": 6880,
-    "timeWeek": 3703,
-    "timeMonth": 4554,
-    "timeYear": 3126,
+    "time": 3050,
+    "timeDay": 5102,
+    "timeWeek": 3624,
+    "timeMonth": 4651,
+    "timeYear": 3133,
     "dailyMinutesDown": {
-      "2025-04-15": 11,
       "2025-04-02": 64,
       "2025-03-17": 108,
       "2025-03-16": 113,
@@ -99,7 +98,8 @@
       "2024-07-03": 40,
       "2024-07-01": 75,
       "2024-06-25": 30,
-      "2024-06-24": 79
+      "2024-06-24": 79,
+      "2024-06-23": 16
     }
   }
 ]

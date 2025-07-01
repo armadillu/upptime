@@ -4,9 +4,9 @@
     "url": "https://uri.cat",
     "icon": "https://icons.duckduckgo.com/ip3/uri.cat.ico",
     "slug": "uri-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1442,
     "timeYear": 1489,
     "dailyMinutesDown": {
+      "2025-07-01": 0,
       "2025-01-11": 21
     }
   },

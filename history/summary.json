@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1604,
-    "timeDay": 1406,
-    "timeWeek": 1619,
-    "timeMonth": 1684,
-    "timeYear": 1625,
+    "time": 1603,
+    "timeDay": 1338,
+    "timeWeek": 1564,
+    "timeMonth": 1676,
+    "timeYear": 1626,
     "dailyMinutesDown": {
       "2026-01-18": 17,
       "2026-01-31": 34,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-term-sant-feliu",
     "status": "down",
-    "uptime": "76.16%",
+    "uptime": "76.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.05%",
-    "time": 4333,
+    "uptimeYear": "0.00%",
+    "time": 4336,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-22": 275,
+      "2026-09-23": 272,
+      "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
@@ -401,8 +402,7 @@
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
-      "2025-09-24": 1440,
-      "2025-09-23": 1440
+      "2025-09-24": 1440
     }
   }
 ]

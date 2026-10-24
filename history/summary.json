@@ -5,23 +5,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/uri.cat.ico",
     "slug": "uri-cat",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "89.78%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "99.78%",
-    "time": 1618,
-    "timeDay": 1618,
-    "timeWeek": 1717,
+    "uptime": "99.66%",
+    "uptimeDay": "62.84%",
+    "uptimeWeek": "84.52%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "99.68%",
+    "time": 1619,
+    "timeDay": 0,
+    "timeWeek": 1754,
     "timeMonth": 1688,
-    "timeYear": 1630,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2026-01-18": 17,
       "2026-01-31": 34,
       "2026-02-26": 57,
       "2026-10-22": 886,
       "2026-10-21": 140,
-      "2026-10-23": 5
+      "2026-10-24": 260,
+      "2026-10-23": 275
     }
   },
   {
@@ -30,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-term-sant-feliu",
     "status": "down",
-    "uptime": "74.63%",
+    "uptime": "74.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 4228,
+    "time": 4197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 1170,
+      "2026-10-24": 260,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -404,8 +406,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   }
 ]

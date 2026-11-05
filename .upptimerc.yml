@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: uri.cat
     url: https://uri.cat
-  - name: miniTerm Sant Feliu
-    url: $SF_URL
+  - name: rebeccabureau.com
+    url: https://rebeccabureau.com
 
 assignees:
   - armadillu
